@@ -3,7 +3,7 @@
 </p>
 <h1 align="center">Hi 👋, I'm HEMMANY rajae</h1>
 <h3 align="center">Passionate about bytes and all things code</h3>
-<img align="right" alt="coding" width="400" src="https://media.tenor.com/bQCwwu0yF90AAAAj/developer-workstation.gif">
+<img align="right" alt="coding" width="300" src="https://media.tenor.com/bQCwwu0yF90AAAAj/developer-workstation.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=raja2023h&label=Profile%20views&color=0e75b6&style=flat" alt="raja2023h" /> </p>
 
