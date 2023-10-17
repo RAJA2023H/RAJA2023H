@@ -1,4 +1,3 @@
-[![MasterHead](https://github.com/RAJA2023H/RAJA2023H/blob/main/BANNER.png)]
 <p align="center">
   <img src="https://github.com/RAJA2023H/RAJA2023H/blob/main/BANNER.png" alt="MasterHead">
 </p>
