@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/RAJA2023H/RAJA2023H/blob/main/BANNER.png" alt="MasterHead">
-</p>
 <h1 align="center">Hi 👋, I'm HEMMANY rajae</h1>
 <h3 align="center">Passionate about bytes and all things code</h3>
 <img align="right" alt="coding" width="200" src="https://media.tenor.com/bQCwwu0yF90AAAAj/developer-workstation.gif">
